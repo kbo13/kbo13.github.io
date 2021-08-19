@@ -1,0 +1,46 @@
+<style>
+#navlist
+{
+list-style-type: none;
+color: darkgray;
+background-color: gainsboro;
+margin-left: 5px;
+}
+
+#active:hover li { display: block; }
+#active li { display: none; }
+
+#navcontainer
+{
+width: 220px;
+background-color: gainsboro;
+border: 1px gray solid;
+}
+
+#navcontainer a
+{
+color: gray;
+background-color: gainsboro;
+width: 120px;
+display: block;
+}
+
+#navcontainer a:visited
+{
+color: gray;
+background-color: gainsboro;
+}
+
+#navcontainer a:active
+{
+color: white;
+background-color: gray;
+}
+
+#navcontainer a:hover
+{
+</html>
+color: white;
+background-color: gray;
+}
+</style>
