@@ -1,0 +1,58 @@
+<style>
+
+
+html { 
+        background: url('greengrad2.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+</style>
+<style>
+	#miniflex {
+  width: 100%;
+  float: left;
+  font-size: small; /* could be specified at a higher level */
+  margin: 0;
+  padding: 0 10px 0 10px;
+  border-bottom: 1px solid #696;
+  position:relative;
+  z-index:2;
+}
+
+#miniflex li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  list-style: none;
+  position:relative;
+}
+
+#miniflex a:link, #miniflex a:visited {
+  float: left;
+  font-size: 85%;
+  line-height: 20px;
+  font-weight: bold;
+  margin: 0 10px 0 10px;
+  text-decoration: none;
+  color: #9c9;
+}
+
+#miniflex a.active:link, #miniflex a.active:visited, #miniflex a:hover {
+  border-bottom: 4px solid #696;
+  padding-bottom: 2px;
+  color: #696;
+}
+</style>
+<style>
+	h2 { color : #ffd700; font-size: 60px; font-style : italic; }
+	h3 { color : #ffd700; font-size: 60px; font-style : italic; }
+	h1 { color : #cc9900; font-size: 30px; font-style : italic; }
+	h4 { color : #6a7a45; font-size: 30px;  }
+</style>
+<style>
+
+
+</style>

@@ -1,0 +1,8 @@
+flask==1.1.1
+python
+dotenv
+flask_bootstrap
+redirect
+url_for
+render_template
+click
